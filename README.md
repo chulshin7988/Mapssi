@@ -1,2 +1,2 @@
 # Mapssi
-Basic static website using HTML / CSS 
+Basic static website using HTML / CSS / Javascript
