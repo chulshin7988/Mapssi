@@ -1,0 +1,58 @@
+.index{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 80px;
+  border-bottom: 6px solid;
+  margin-bottom: 60px;
+  padding: 13px 0;
+  color: #45220a;
+  font-family: 'Indie Flower', cursive;
+  margin-left: 43%;
+  margin-right: 43%;
+}
+.menu_page{
+  display: flex;
+}
+.menu_page div{
+  margin-left: 50px;
+  margin-right: 40px;
+  padding: 10px;
+  text-align: center;
+}
+.menuBar ul{
+  list-style: none;
+}
+.menuBar{
+  flex: 1;
+  line-height: 3.85;
+  font-size: 25px;
+  font-family: 'Rock Salt', cursive;
+  text-shadow: 3px 3px 7px #45220a;
+}
+.menus{
+  display: flex;
+  flex: 3;
+}
+.menu1{
+  flex: 1;
+}
+.menu2{
+  flex: 1;
+}
+img {
+  width: 480px;
+  height: 350px;
+}
+h2 {
+  font-size: 30px;
+  font-variant: small-caps;
+  font-family: 'Permanent Marker', cursive;
+  color: #45220a;
+}
+p {
+  font-size: 18px;
+  font-family: 'Chilanka', cursive;
+}
+#footer{
+  margin-top: 70px;
+}
